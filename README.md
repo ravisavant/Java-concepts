@@ -1,2 +1,2 @@
 # Java-concepts
-learning java and revising java concepts trough  hands on coding.
+learning and revising java concepts trough  hands on coding.
