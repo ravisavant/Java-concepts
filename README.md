@@ -1,2 +1,2 @@
-# Java-concepts
+# Java-Strings
 learning and revising java concepts trough  hands on coding.
